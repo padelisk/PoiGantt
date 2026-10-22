@@ -2,7 +2,7 @@
 
 A Java application that reads a project's tasks from a file and creates a **Gantt chart in Excel**.
 
-Team project (3 students) for the *Software Development* course, University of Ioannina, 2024.
+project  for the Software Development course, University of Ioannina, 2024.
 
 ## What it does
 
